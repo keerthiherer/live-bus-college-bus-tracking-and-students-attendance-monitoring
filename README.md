@@ -8,3 +8,6 @@ circuite diagram of arduino uno and Neo-6m GPS module.
 ![image](https://github.com/user-attachments/assets/779978b0-30d0-4299-9547-892248bb55ec)
 
 circuite diagram of ESP82 and RFID module.
+
+The output image will be updated soon after completion of backend and front for this project..
+see you soon...
